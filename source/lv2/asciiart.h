@@ -8,4 +8,4 @@ static char* asciiart = "\n"
 "| $$  | $$| $$$$$$$$   | $$   | $$  | $$|  $$$$$$/      | $$      | $$  | $$| $$$$$$$$|  $$$$$$/| $$$$$$$$| $$  | $$   \  $/   | $$$$$$$$\n"
 "|__/  |__/|________/   |__/   |__/  |__/ \______/       |__/      |__/  |__/|________/ \______/ |________/|__/  |__/    \_/    |________/\n"
 static char* asciitail =
-	"              Retro Preserv's XeLL RELOADED - Xenon Linux Loader\n\n";
+	"                        Retro Preserv's XeLL RELOADED - inbox@retropreserve.com - SERIREAL_NUMBER \n\n";
